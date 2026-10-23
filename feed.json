@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Peterbot-Documentry",
+    "description": "",
+    "home_page_url": "https://trishul1234.github.io/mywebsite",
+    "feed_url": "https://trishul1234.github.io/mywebsite/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Trishul Vallabh"
+    },
+    "items": [
+    ]
+}

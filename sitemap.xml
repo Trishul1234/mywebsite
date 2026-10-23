@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://trishul1234.github.io/mywebsite/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://trishul1234.github.io/mywebsite/</loc>
+</url>
+<url>
+<loc>https://trishul1234.github.io/mywebsite/2024-peterbot/</loc>
+<lastmod>2026-10-13T08:53:44+02:00</lastmod>
+</url>
+<url>
+<loc>https://trishul1234.github.io/mywebsite/2025-peterbot/</loc>
+<lastmod>2026-10-13T08:44:14+02:00</lastmod>
+<image:image>
+<image:loc>https://trishul1234.github.io/mywebsite/media/posts/3/peterbot2025.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://trishul1234.github.io/mywebsite/2026-peterbot/</loc>
+<lastmod>2026-10-13T09:17:28+02:00</lastmod>
+<image:image>
+<image:loc>https://trishul1234.github.io/mywebsite/media/posts/4/peterbot2026.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
